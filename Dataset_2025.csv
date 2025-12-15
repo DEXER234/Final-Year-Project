@@ -1,0 +1,601 @@
+Date,Location,Event_Category,Casualty_Count,Age,Gender,Reaction_Text,Label_Status,Severity_Score
+2024-09-03,Bengaluru,Building Fire,28,26,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-05,Delhi,Road Accident,27,32,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-29,Assam,Air Pollution,35,18,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-06,Kolkata,Building Fire,97,39,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-13,Hyderabad,Cyclone,77,34,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-27,Kerala,Road Accident,70,36,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-06,Himachal Pradesh,Building Fire,98,36,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-19,Bengaluru,Disease Outbreak,81,41,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-27,Himachal Pradesh,Heatwave,89,22,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-07-30,Kerala,Heatwave,118,53,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-30,Delhi,Cyclone,51,35,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-28,Himachal Pradesh,Disease Outbreak,50,47,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-02,Punjab,Industrial Accident,68,34,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-29,Kolkata,Industrial Accident,63,23,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-20,Kolkata,Landslide,76,22,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-07,Bengaluru,Industrial Accident,110,18,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-15,Bengaluru,Landslide,20,47,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-08-04,Mumbai,Heatwave,107,50,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-06,Kolkata,Industrial Accident,99,51,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-03,Mumbai,Cyclone,112,37,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-21,Uttarakhand,Road Accident,10,49,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-24,Assam,Industrial Accident,21,34,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-31,Bengaluru,Landslide,85,41,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-02,Chennai,Road Accident,43,19,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-10,Punjab,Flood,29,22,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-05,Chennai,Heatwave,85,49,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-02,Assam,Landslide,24,24,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-25,Kerala,Disease Outbreak,110,21,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-02,Hyderabad,Road Accident,31,30,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-25,Kolkata,Heatwave,59,33,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-07,Himachal Pradesh,Industrial Accident,107,18,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-23,Assam,Disease Outbreak,27,43,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-01,Kerala,Heatwave,118,47,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-20,Chennai,Heatwave,27,21,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-07,Uttarakhand,Disease Outbreak,64,51,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-17,Kolkata,Road Accident,76,22,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-29,Uttarakhand,Building Fire,74,20,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-28,Bengaluru,Building Fire,85,38,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-17,Himachal Pradesh,Heatwave,58,38,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-19,Uttarakhand,Road Accident,9,52,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-28,Hyderabad,Road Accident,112,33,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-27,Odisha,Heatwave,78,51,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-29,Kolkata,Heatwave,14,24,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-17,Chennai,Cyclone,26,34,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-12,Himachal Pradesh,Landslide,106,35,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-07,Kolkata,Heatwave,20,46,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-10,Punjab,Train Accident,69,20,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-17,Delhi,Heatwave,46,20,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-25,Mumbai,Cyclone,99,53,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-19,Kolkata,Train Accident,112,44,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-09,Kerala,Building Fire,34,28,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-18,Assam,Building Fire,25,47,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-29,Delhi,Building Fire,51,39,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-15,Himachal Pradesh,Industrial Accident,51,52,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-21,Bengaluru,Train Accident,74,34,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-15,Punjab,Cyclone,55,50,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-03,Delhi,Landslide,0,51,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-09,Himachal Pradesh,Cyclone,79,38,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-25,Kerala,Cyclone,51,36,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-08-25,Kerala,Train Accident,78,54,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-09,Bengaluru,Building Fire,55,55,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-27,Himachal Pradesh,Building Fire,65,48,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-05,Himachal Pradesh,Air Pollution,42,23,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-12,Chennai,Train Accident,3,20,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-29,Kerala,Air Pollution,24,42,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-19,Himachal Pradesh,Flood,114,24,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-09-11,Punjab,Industrial Accident,59,21,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-18,Assam,Industrial Accident,71,38,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-23,Kolkata,Disease Outbreak,57,34,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-20,Chennai,Heatwave,56,22,Female,This adds so much pressure to daily life.,Stressed,1
+2024-07-13,Hyderabad,Industrial Accident,10,26,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-28,Kolkata,Building Fire,8,44,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-24,Delhi,Building Fire,106,44,Female,This adds so much pressure to daily life.,Stressed,1
+2024-08-01,Delhi,Cyclone,38,42,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-29,Bengaluru,Landslide,62,19,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-09-01,Kolkata,Disease Outbreak,117,26,Male,This adds so much pressure to daily life.,Stressed,1
+2024-06-11,Himachal Pradesh,Landslide,17,47,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-19,Hyderabad,Building Fire,58,38,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-05,Kerala,Heatwave,106,23,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-15,Chennai,Road Accident,99,20,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-16,Delhi,Air Pollution,19,33,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-12,Chennai,Disease Outbreak,89,34,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-08,Kolkata,Heatwave,13,55,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-21,Punjab,Building Fire,9,55,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-17,Himachal Pradesh,Air Pollution,103,25,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-24,Hyderabad,Road Accident,64,39,Male,This adds so much pressure to daily life.,Stressed,1
+2024-06-14,Kerala,Cyclone,81,47,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-02,Odisha,Heatwave,78,52,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-09-14,Punjab,Air Pollution,34,38,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-21,Assam,Building Fire,96,47,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-03,Hyderabad,Train Accident,62,31,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-06,Uttarakhand,Heatwave,71,18,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-09-01,Kerala,Disease Outbreak,71,33,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-10,Delhi,Road Accident,37,32,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-24,Uttarakhand,Cyclone,60,53,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-16,Punjab,Disease Outbreak,34,37,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-01,Chennai,Cyclone,15,52,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-03,Assam,Heatwave,92,55,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-08,Chennai,Cyclone,22,37,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-06,Delhi,Industrial Accident,37,26,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-13,Bengaluru,Disease Outbreak,61,46,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-03,Assam,Road Accident,105,22,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-13,Himachal Pradesh,Flood,19,27,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-16,Odisha,Landslide,77,32,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-09,Uttarakhand,Landslide,39,54,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-20,Chennai,Heatwave,84,23,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-10,Mumbai,Train Accident,0,44,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-05,Chennai,Heatwave,90,36,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-27,Bengaluru,Air Pollution,84,30,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-22,Kolkata,Heatwave,105,27,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-10,Bengaluru,Air Pollution,95,54,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-30,Punjab,Heatwave,89,43,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-11,Uttarakhand,Flood,113,45,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-12,Chennai,Air Pollution,75,19,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-31,Odisha,Disease Outbreak,117,35,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-12,Assam,Cyclone,52,39,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-13,Kerala,Disease Outbreak,36,43,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-11,Bengaluru,Cyclone,14,43,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-07,Chennai,Industrial Accident,46,49,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-05,Odisha,Train Accident,118,36,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-04,Himachal Pradesh,Air Pollution,102,33,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-08-10,Kerala,Road Accident,28,25,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-03,Punjab,Heatwave,65,35,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-02,Assam,Industrial Accident,18,42,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-06,Kerala,Cyclone,119,50,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-01,Bengaluru,Air Pollution,74,49,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-15,Hyderabad,Industrial Accident,97,52,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-20,Chennai,Building Fire,73,42,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-11,Punjab,Disease Outbreak,90,42,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-05,Kolkata,Industrial Accident,75,39,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-07,Assam,Flood,92,27,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-31,Bengaluru,Cyclone,79,43,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-11,Himachal Pradesh,Disease Outbreak,111,52,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-20,Himachal Pradesh,Heatwave,29,23,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-27,Kolkata,Heatwave,115,19,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-08,Hyderabad,Cyclone,55,27,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-22,Kolkata,Road Accident,78,42,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-30,Assam,Heatwave,58,34,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-26,Odisha,Train Accident,9,46,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-28,Bengaluru,Disease Outbreak,108,37,Male,This adds so much pressure to daily life.,Stressed,1
+2024-06-14,Chennai,Landslide,73,40,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-15,Himachal Pradesh,Landslide,35,18,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-08,Chennai,Air Pollution,102,40,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-26,Punjab,Train Accident,80,24,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-05,Uttarakhand,Cyclone,93,26,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-04,Kerala,Train Accident,25,26,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-03,Assam,Heatwave,95,39,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-19,Chennai,Landslide,108,53,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-02,Bengaluru,Industrial Accident,15,47,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-14,Himachal Pradesh,Cyclone,13,32,Female,This adds so much pressure to daily life.,Stressed,1
+2024-09-26,Uttarakhand,Building Fire,82,22,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-15,Kolkata,Flood,4,37,Female,This adds so much pressure to daily life.,Stressed,1
+2024-07-01,Odisha,Train Accident,49,47,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-22,Kerala,Road Accident,106,49,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-28,Hyderabad,Building Fire,56,46,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-27,Hyderabad,Industrial Accident,115,40,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-25,Mumbai,Disease Outbreak,11,31,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-02,Kolkata,Air Pollution,26,22,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-13,Kolkata,Air Pollution,0,35,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-11,Kolkata,Road Accident,84,19,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-10,Chennai,Air Pollution,41,19,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-17,Punjab,Landslide,67,25,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-08,Hyderabad,Industrial Accident,75,24,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-02,Himachal Pradesh,Industrial Accident,38,47,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-17,Kerala,Landslide,87,24,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-24,Mumbai,Cyclone,77,27,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-08-19,Himachal Pradesh,Air Pollution,70,38,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-04,Uttarakhand,Landslide,12,25,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-22,Chennai,Landslide,43,47,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-11,Kerala,Cyclone,85,34,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-09,Mumbai,Road Accident,11,45,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-11,Delhi,Air Pollution,71,53,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-16,Himachal Pradesh,Landslide,111,21,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-14,Uttarakhand,Industrial Accident,27,27,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-15,Odisha,Cyclone,14,35,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-17,Himachal Pradesh,Heatwave,3,29,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-15,Delhi,Train Accident,111,27,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-09-03,Himachal Pradesh,Flood,11,51,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-29,Hyderabad,Train Accident,47,37,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-20,Kolkata,Air Pollution,6,23,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-02,Uttarakhand,Disease Outbreak,53,35,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-26,Mumbai,Heatwave,86,55,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-29,Kerala,Air Pollution,7,18,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-07,Kolkata,Heatwave,37,38,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-04,Kerala,Train Accident,16,42,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-21,Punjab,Flood,55,19,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-13,Kerala,Air Pollution,51,44,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-03,Hyderabad,Train Accident,102,47,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-17,Mumbai,Building Fire,55,55,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-20,Bengaluru,Cyclone,28,39,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-07,Odisha,Building Fire,115,40,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-14,Kolkata,Heatwave,25,29,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-07,Himachal Pradesh,Disease Outbreak,59,54,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-20,Assam,Road Accident,60,46,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-16,Odisha,Road Accident,39,47,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-18,Bengaluru,Road Accident,82,23,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-28,Uttarakhand,Building Fire,41,48,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-14,Hyderabad,Road Accident,64,29,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-27,Odisha,Industrial Accident,78,28,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-20,Kerala,Cyclone,86,21,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-13,Odisha,Landslide,36,34,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-14,Himachal Pradesh,Train Accident,117,40,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-16,Punjab,Road Accident,39,53,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-25,Punjab,Industrial Accident,11,45,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-10,Kolkata,Building Fire,43,49,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-20,Mumbai,Heatwave,108,24,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-16,Kerala,Train Accident,20,29,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-23,Hyderabad,Building Fire,56,36,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-10,Assam,Building Fire,47,54,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-08,Kerala,Industrial Accident,67,44,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-20,Bengaluru,Flood,82,48,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-07,Mumbai,Train Accident,34,46,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-25,Chennai,Disease Outbreak,113,40,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-21,Odisha,Cyclone,30,42,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-04,Hyderabad,Road Accident,107,39,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-07,Assam,Train Accident,97,48,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-03,Bengaluru,Building Fire,106,27,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-01,Bengaluru,Road Accident,6,33,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-15,Assam,Air Pollution,68,19,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-25,Delhi,Air Pollution,45,33,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-07,Hyderabad,Road Accident,67,52,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-06,Himachal Pradesh,Landslide,47,34,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-15,Chennai,Road Accident,98,55,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-16,Odisha,Cyclone,104,29,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-12,Kolkata,Road Accident,91,47,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-06,Chennai,Flood,40,37,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-05,Himachal Pradesh,Building Fire,36,40,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-16,Hyderabad,Landslide,113,43,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-24,Assam,Disease Outbreak,47,51,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-11,Kerala,Air Pollution,105,29,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-11,Hyderabad,Heatwave,39,46,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-15,Assam,Flood,93,40,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-10,Himachal Pradesh,Landslide,46,50,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-17,Uttarakhand,Disease Outbreak,4,26,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-17,Kerala,Air Pollution,4,27,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-27,Mumbai,Air Pollution,17,51,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-08-23,Bengaluru,Building Fire,14,19,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-25,Odisha,Road Accident,33,34,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-28,Assam,Building Fire,15,26,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-24,Punjab,Disease Outbreak,11,38,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-09-23,Bengaluru,Train Accident,91,29,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-26,Kolkata,Building Fire,101,49,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-30,Odisha,Train Accident,78,23,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-08-31,Punjab,Disease Outbreak,67,44,Female,This adds so much pressure to daily life.,Stressed,1
+2024-07-11,Himachal Pradesh,Road Accident,57,47,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-07,Kolkata,Landslide,64,21,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-22,Kolkata,Cyclone,119,32,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-03,Chennai,Industrial Accident,35,26,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-15,Uttarakhand,Train Accident,21,39,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-06,Himachal Pradesh,Air Pollution,33,31,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-22,Himachal Pradesh,Industrial Accident,37,37,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-09,Assam,Road Accident,88,21,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-01,Assam,Building Fire,43,27,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-22,Kolkata,Cyclone,65,53,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-07-30,Mumbai,Heatwave,57,33,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-08,Kerala,Air Pollution,53,33,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-25,Kolkata,Disease Outbreak,65,47,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-03,Mumbai,Landslide,64,47,Male,This adds so much pressure to daily life.,Stressed,1
+2024-06-07,Delhi,Heatwave,63,48,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-26,Kolkata,Heatwave,93,41,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-22,Delhi,Air Pollution,71,30,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-20,Odisha,Disease Outbreak,97,53,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-13,Kerala,Cyclone,101,39,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-17,Odisha,Landslide,64,20,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-31,Hyderabad,Disease Outbreak,66,47,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-28,Uttarakhand,Cyclone,20,43,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-30,Uttarakhand,Heatwave,60,19,Female,This adds so much pressure to daily life.,Stressed,1
+2024-07-24,Uttarakhand,Heatwave,101,19,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-01,Delhi,Air Pollution,61,28,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-05,Uttarakhand,Road Accident,24,19,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-20,Kerala,Building Fire,52,50,Female,This adds so much pressure to daily life.,Stressed,1
+2024-08-06,Chennai,Industrial Accident,41,48,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-29,Odisha,Cyclone,69,40,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-02,Bengaluru,Industrial Accident,38,32,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-28,Punjab,Disease Outbreak,40,48,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-16,Uttarakhand,Industrial Accident,48,43,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-06,Bengaluru,Road Accident,44,46,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-26,Odisha,Heatwave,119,53,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-18,Punjab,Air Pollution,30,33,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-07,Mumbai,Landslide,42,48,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-10,Kolkata,Landslide,83,48,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-12,Bengaluru,Flood,116,23,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-24,Kolkata,Flood,107,43,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-21,Delhi,Flood,38,54,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-29,Himachal Pradesh,Industrial Accident,67,49,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-06-25,Mumbai,Cyclone,20,47,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-03,Hyderabad,Heatwave,72,30,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-05,Hyderabad,Road Accident,51,24,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-12,Chennai,Flood,33,42,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-13,Bengaluru,Air Pollution,92,54,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-28,Chennai,Flood,85,25,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-22,Himachal Pradesh,Industrial Accident,118,37,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-08-18,Chennai,Building Fire,17,48,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-07-24,Punjab,Industrial Accident,116,48,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-07,Assam,Industrial Accident,90,41,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-15,Odisha,Industrial Accident,25,54,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-18,Odisha,Disease Outbreak,14,31,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-12,Delhi,Disease Outbreak,16,50,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-11,Assam,Heatwave,92,19,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-04,Chennai,Air Pollution,9,20,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-09,Delhi,Road Accident,119,48,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-24,Kolkata,Landslide,47,42,Female,This adds so much pressure to daily life.,Stressed,1
+2024-06-11,Himachal Pradesh,Industrial Accident,17,40,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-07,Kolkata,Building Fire,106,18,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-26,Punjab,Industrial Accident,54,52,Female,This adds so much pressure to daily life.,Stressed,1
+2024-07-29,Hyderabad,Train Accident,35,30,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-18,Delhi,Building Fire,26,22,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-16,Himachal Pradesh,Flood,31,20,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-09,Chennai,Flood,17,50,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-13,Uttarakhand,Cyclone,30,37,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-09,Bengaluru,Flood,71,55,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-07,Hyderabad,Landslide,100,51,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-20,Bengaluru,Landslide,23,52,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-09,Punjab,Train Accident,103,47,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-11,Odisha,Train Accident,49,33,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-22,Mumbai,Disease Outbreak,108,41,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-05,Kerala,Air Pollution,77,20,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-01,Chennai,Cyclone,38,18,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-04,Assam,Building Fire,89,31,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-08,Bengaluru,Landslide,59,52,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-17,Odisha,Disease Outbreak,59,24,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-18,Hyderabad,Landslide,5,54,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-04,Odisha,Air Pollution,74,44,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-13,Chennai,Landslide,72,33,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-06,Assam,Disease Outbreak,58,28,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-09-01,Odisha,Disease Outbreak,23,52,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-29,Himachal Pradesh,Flood,97,18,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-09,Punjab,Train Accident,1,31,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-19,Himachal Pradesh,Air Pollution,116,48,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-08,Odisha,Landslide,1,19,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-04,Punjab,Landslide,103,29,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-01,Chennai,Air Pollution,67,34,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-06-11,Hyderabad,Landslide,58,54,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-27,Mumbai,Flood,11,43,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-08,Himachal Pradesh,Flood,89,28,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-22,Hyderabad,Air Pollution,109,24,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-24,Punjab,Air Pollution,60,35,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-24,Odisha,Air Pollution,84,20,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-27,Uttarakhand,Train Accident,96,43,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-12,Chennai,Air Pollution,106,42,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-10,Punjab,Road Accident,64,40,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-30,Mumbai,Cyclone,77,43,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-09,Assam,Disease Outbreak,29,40,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-27,Uttarakhand,Landslide,10,36,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-05,Kolkata,Landslide,91,27,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-14,Mumbai,Flood,120,37,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-14,Kolkata,Road Accident,23,45,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-04,Mumbai,Cyclone,70,23,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-08,Kerala,Landslide,99,23,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-22,Kolkata,Heatwave,38,35,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-22,Kerala,Heatwave,53,37,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-03,Chennai,Disease Outbreak,76,30,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-09,Delhi,Landslide,42,42,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-26,Himachal Pradesh,Air Pollution,17,37,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-11,Kolkata,Landslide,40,36,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-19,Bengaluru,Landslide,46,25,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-02,Assam,Building Fire,56,36,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-18,Himachal Pradesh,Heatwave,30,34,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-10,Assam,Air Pollution,61,55,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-10,Hyderabad,Industrial Accident,76,23,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-22,Himachal Pradesh,Air Pollution,5,54,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-14,Delhi,Road Accident,33,32,Male,This adds so much pressure to daily life.,Stressed,1
+2024-07-21,Assam,Air Pollution,88,50,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-01,Mumbai,Heatwave,53,23,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-10,Hyderabad,Disease Outbreak,100,31,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-13,Assam,Disease Outbreak,40,22,Female,This adds so much pressure to daily life.,Stressed,1
+2024-06-03,Hyderabad,Road Accident,86,28,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-13,Odisha,Landslide,59,32,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-21,Himachal Pradesh,Landslide,50,19,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-20,Delhi,Building Fire,26,35,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-17,Hyderabad,Building Fire,58,25,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-16,Kerala,Air Pollution,50,55,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-17,Assam,Air Pollution,22,37,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-06-16,Chennai,Heatwave,14,29,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-24,Uttarakhand,Train Accident,73,42,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-21,Odisha,Train Accident,71,28,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-24,Hyderabad,Disease Outbreak,79,21,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-18,Chennai,Landslide,71,50,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-24,Punjab,Disease Outbreak,62,28,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-08,Delhi,Heatwave,28,52,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-12,Punjab,Disease Outbreak,70,50,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-09-08,Odisha,Cyclone,69,20,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-14,Punjab,Building Fire,38,20,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-09-19,Mumbai,Disease Outbreak,110,25,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-09-19,Punjab,Air Pollution,80,45,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-13,Chennai,Flood,72,40,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-30,Bengaluru,Heatwave,73,35,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-26,Delhi,Heatwave,110,26,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-31,Hyderabad,Building Fire,97,43,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-20,Kerala,Landslide,57,22,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-28,Hyderabad,Disease Outbreak,62,38,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-21,Himachal Pradesh,Cyclone,108,22,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-14,Chennai,Disease Outbreak,34,38,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-12,Assam,Cyclone,114,21,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-03,Mumbai,Train Accident,56,47,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-28,Kolkata,Heatwave,20,35,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-11,Hyderabad,Train Accident,6,43,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-08-23,Mumbai,Road Accident,0,31,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-15,Chennai,Industrial Accident,87,46,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-13,Mumbai,Landslide,88,26,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-20,Mumbai,Road Accident,13,38,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-19,Kolkata,Train Accident,8,51,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-15,Punjab,Building Fire,80,27,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-12,Mumbai,Train Accident,96,25,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-11,Kolkata,Building Fire,35,23,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-17,Himachal Pradesh,Heatwave,26,51,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-22,Delhi,Building Fire,63,42,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-21,Uttarakhand,Road Accident,67,18,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-20,Uttarakhand,Landslide,46,52,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-03,Uttarakhand,Road Accident,1,34,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-10,Kerala,Industrial Accident,36,50,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-11,Himachal Pradesh,Industrial Accident,68,27,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-11,Odisha,Building Fire,103,27,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-10,Punjab,Landslide,93,33,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-27,Kerala,Road Accident,58,21,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-02,Punjab,Train Accident,89,18,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-06,Odisha,Heatwave,21,41,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-07,Delhi,Cyclone,103,45,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-31,Uttarakhand,Road Accident,63,47,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-18,Uttarakhand,Train Accident,47,28,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-30,Punjab,Industrial Accident,0,20,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-31,Hyderabad,Landslide,117,27,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-29,Hyderabad,Building Fire,53,38,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-16,Odisha,Flood,22,32,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-21,Assam,Heatwave,99,37,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-02,Hyderabad,Building Fire,37,54,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-07-18,Uttarakhand,Disease Outbreak,98,30,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-09-28,Kerala,Flood,29,52,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-01,Himachal Pradesh,Landslide,108,37,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-24,Assam,Flood,18,35,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-23,Odisha,Landslide,89,41,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-08-04,Kolkata,Landslide,9,55,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-01,Bengaluru,Heatwave,108,38,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-28,Bengaluru,Building Fire,9,30,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-06-14,Kolkata,Disease Outbreak,59,38,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-07,Chennai,Disease Outbreak,39,47,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-21,Himachal Pradesh,Heatwave,105,20,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-12,Punjab,Building Fire,45,43,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-13,Kolkata,Flood,51,46,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-06-14,Kolkata,Road Accident,1,21,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-14,Kerala,Cyclone,87,23,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-09,Chennai,Disease Outbreak,103,26,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-06,Assam,Flood,21,54,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-04,Kerala,Landslide,22,40,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-06,Assam,Train Accident,4,33,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-21,Odisha,Disease Outbreak,7,23,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-24,Chennai,Industrial Accident,31,52,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-01,Odisha,Disease Outbreak,44,54,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-24,Delhi,Cyclone,76,32,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-12,Assam,Industrial Accident,45,55,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-02,Himachal Pradesh,Building Fire,34,52,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-16,Kolkata,Train Accident,30,55,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-30,Punjab,Cyclone,72,54,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-09,Bengaluru,Train Accident,62,20,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-17,Chennai,Flood,67,48,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-12,Kolkata,Cyclone,91,29,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-19,Uttarakhand,Train Accident,99,25,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-30,Himachal Pradesh,Landslide,75,24,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-06-18,Kolkata,Landslide,101,49,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-29,Himachal Pradesh,Air Pollution,104,29,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-06-17,Kolkata,Flood,89,54,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-08-17,Hyderabad,Air Pollution,28,54,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-13,Punjab,Road Accident,30,40,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-09-14,Punjab,Cyclone,57,18,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-28,Mumbai,Cyclone,32,24,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-27,Punjab,Landslide,21,44,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-09,Kerala,Road Accident,106,48,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-10,Delhi,Heatwave,2,38,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-14,Kolkata,Landslide,20,22,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-30,Delhi,Landslide,120,28,Female,This adds so much pressure to daily life.,Stressed,1
+2024-06-13,Hyderabad,Building Fire,24,44,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-01,Mumbai,Flood,50,54,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-17,Delhi,Landslide,11,36,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-04,Chennai,Train Accident,81,36,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-10,Kerala,Disease Outbreak,62,34,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-18,Kerala,Cyclone,23,46,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-30,Bengaluru,Building Fire,107,35,Male,This adds so much pressure to daily life.,Stressed,1
+2024-06-11,Himachal Pradesh,Cyclone,103,52,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-16,Kerala,Industrial Accident,53,52,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-09,Mumbai,Landslide,115,20,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-23,Kolkata,Building Fire,103,30,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-11,Himachal Pradesh,Landslide,25,27,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-12,Kerala,Industrial Accident,50,53,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-26,Delhi,Air Pollution,75,51,Female,This adds so much pressure to daily life.,Stressed,1
+2024-06-20,Kolkata,Air Pollution,75,55,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-09,Bengaluru,Industrial Accident,112,40,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-23,Assam,Air Pollution,77,48,Male,This adds so much pressure to daily life.,Stressed,1
+2024-07-22,Kolkata,Air Pollution,77,43,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-28,Chennai,Flood,95,48,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-14,Bengaluru,Heatwave,35,49,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-09,Punjab,Disease Outbreak,99,38,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-25,Assam,Building Fire,116,44,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-08-05,Kolkata,Road Accident,39,50,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-23,Chennai,Building Fire,107,21,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-06-07,Hyderabad,Building Fire,35,41,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-27,Delhi,Building Fire,47,49,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-08-15,Odisha,Cyclone,44,28,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-04,Kerala,Flood,20,54,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-26,Chennai,Heatwave,83,44,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-09-25,Kolkata,Train Accident,76,18,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-08-31,Punjab,Heatwave,54,42,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-06-28,Assam,Heatwave,86,51,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-05,Himachal Pradesh,Cyclone,71,36,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-09,Hyderabad,Heatwave,81,38,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-25,Kolkata,Industrial Accident,97,33,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-08-27,Kolkata,Flood,83,49,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-22,Kerala,Flood,74,54,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-27,Odisha,Disease Outbreak,116,40,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-08,Mumbai,Disease Outbreak,16,34,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-29,Hyderabad,Building Fire,95,37,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-04,Uttarakhand,Heatwave,59,25,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-31,Chennai,Industrial Accident,15,42,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-09-20,Kolkata,Train Accident,25,39,Female,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-11,Punjab,Train Accident,99,23,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-11,Himachal Pradesh,Flood,0,46,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-08-13,Kolkata,Disease Outbreak,100,23,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-22,Kerala,Disease Outbreak,49,18,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-06-02,Hyderabad,Industrial Accident,24,19,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-28,Hyderabad,Heatwave,16,24,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-09,Delhi,Heatwave,37,47,Female,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-07-14,Assam,Cyclone,96,30,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-06-30,Chennai,Train Accident,27,19,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-08-31,Himachal Pradesh,Flood,48,34,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-23,Delhi,Flood,88,25,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-16,Odisha,Heatwave,60,27,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-24,Himachal Pradesh,Road Accident,84,51,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-15,Mumbai,Industrial Accident,92,25,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-03,Chennai,Air Pollution,25,34,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-08,Kolkata,Flood,70,49,Male,This adds so much pressure to daily life.,Stressed,1
+2024-07-01,Delhi,Flood,85,23,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-06-12,Odisha,Road Accident,92,24,Female,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-08,Bengaluru,Disease Outbreak,6,24,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-17,Himachal Pradesh,Cyclone,54,25,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-18,Kolkata,Train Accident,42,40,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-18,Hyderabad,Train Accident,14,43,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-15,Kerala,Disease Outbreak,102,44,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-29,Punjab,Flood,120,28,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-11,Uttarakhand,Disease Outbreak,23,42,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-01,Assam,Road Accident,113,44,Female,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-04,Himachal Pradesh,Cyclone,1,51,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-26,Himachal Pradesh,Building Fire,61,40,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-06-02,Himachal Pradesh,Train Accident,64,48,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-05,Assam,Cyclone,30,39,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-08-10,Himachal Pradesh,Landslide,51,33,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-11,Uttarakhand,Disease Outbreak,11,49,Female,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-08-03,Punjab,Flood,13,43,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-09-14,Mumbai,Air Pollution,79,37,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-07-17,Delhi,Building Fire,108,47,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-08-31,Assam,Road Accident,12,32,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-15,Himachal Pradesh,Heatwave,70,51,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-09-23,Kolkata,Disease Outbreak,17,44,Male,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-06-25,Mumbai,Landslide,27,47,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-09-05,Kerala,Flood,118,55,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-24,Uttarakhand,Industrial Accident,17,49,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-16,Uttarakhand,Disease Outbreak,118,50,Male,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-06-14,Kerala,Air Pollution,77,38,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-07-06,Kerala,Cyclone,37,46,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-08-17,Punjab,Industrial Accident,38,53,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-27,Uttarakhand,Heatwave,87,40,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-30,Mumbai,Cyclone,71,48,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-09-12,Delhi,Industrial Accident,13,19,Female,This adds so much pressure to daily life.,Stressed,1
+2024-08-25,Delhi,Building Fire,34,28,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-16,Delhi,Heatwave,26,52,Male,This is overwhelming. I don’t know how people are coping.,Stressed,1
+2024-06-14,Uttarakhand,Industrial Accident,110,32,Female,This adds so much pressure to daily life.,Stressed,1
+2024-08-28,Himachal Pradesh,Flood,118,42,Female,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-08-10,Delhi,Flood,95,34,Male,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-09-25,Himachal Pradesh,Cyclone,96,55,Male,"Sad incident, praying for everyone affected.",Neutral,0
+2024-07-28,Kolkata,Road Accident,23,29,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
+2024-07-25,Bengaluru,Industrial Accident,33,26,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-07-13,Assam,Train Accident,5,27,Female,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-08-02,Uttarakhand,Industrial Accident,45,22,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-06,Mumbai,Industrial Accident,20,44,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-29,Chennai,Cyclone,42,41,Female,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-08-11,Himachal Pradesh,Flood,14,40,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-06-06,Himachal Pradesh,Cyclone,48,25,Female,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-06-04,Odisha,Cyclone,65,50,Female,My stress levels are very high after reading about this.,Stressed,1
+2024-07-08,Himachal Pradesh,Building Fire,41,50,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-07,Odisha,Industrial Accident,0,22,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-09-15,Mumbai,Building Fire,68,45,Male,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-07-29,Punjab,Cyclone,4,23,Male,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-09-10,Bengaluru,Industrial Accident,9,54,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-20,Assam,Landslide,55,38,Male,This adds so much pressure to daily life.,Stressed,1
+2024-08-08,Delhi,Air Pollution,8,55,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-09-27,Odisha,Road Accident,37,37,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-07-19,Kerala,Flood,60,28,Male,This adds so much pressure to daily life.,Stressed,1
+2024-09-10,Odisha,Heatwave,81,27,Female,I’m feeling uneasy and nervous since this incident.,Anxious,2
+2024-08-10,Odisha,Train Accident,15,20,Male,So much stress after hearing this. Too many things going wrong.,Stressed,1
+2024-07-10,Chennai,Cyclone,27,44,Male,This is unfortunate news. Hope things improve soon.,Neutral,0
+2024-06-29,Uttarakhand,Heatwave,24,25,Male,I can’t relax after hearing this. My mind is constantly racing.,Anxious,2
+2024-08-22,Odisha,Road Accident,37,22,Female,I feel numb reading about this. Everything feels pointless.,Depressed,3
+2024-09-01,Uttarakhand,Disease Outbreak,42,40,Male,This incident just made my heart sink. I can’t stop overthinking.,Depressed,3
+2024-07-07,Uttarakhand,Road Accident,115,30,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-13,Uttarakhand,Heatwave,88,55,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-07-25,Kolkata,Flood,40,33,Male,My stress levels are very high after reading about this.,Stressed,1
+2024-09-16,Hyderabad,Train Accident,86,39,Female,This was unexpected. Hope authorities handle it well.,Neutral,0
+2024-07-16,Bengaluru,Disease Outbreak,70,24,Male,Hearing about this incident today. Very unfortunate.,Neutral,0
+2024-09-18,Kolkata,Industrial Accident,25,34,Male,Life feels very heavy after this happened. I don’t feel motivated at all.,Depressed,3
+2024-09-17,Odisha,Flood,104,55,Female,I feel completely drained after hearing this news. Nothing feels normal anymore.,Depressed,3
+2024-08-10,Bengaluru,Industrial Accident,114,52,Female,This news is making me very anxious. I keep worrying about my family.,Anxious,2
+2024-07-21,Chennai,Air Pollution,93,36,Male,This situation scares me a lot. I don’t feel safe anymore.,Anxious,2
